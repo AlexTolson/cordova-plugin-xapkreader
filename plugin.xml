@@ -9,7 +9,7 @@
  
  <platform name="android">
  
-  <framework src="com.google.android.gms:play-services-base:+" />
+  <framework src="com.google.android.gms:play-services-base:16.+" />
  
   <js-module src="www/XAPKReader.js" name="XAPKReader">
    <clobbers target="XAPKReader"/>
